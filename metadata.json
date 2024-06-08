@@ -1,0 +1,8 @@
+{
+  "name": "slock",
+  "description": "lock the screen using slock",
+  "uuid": "slock@aindjare.student.1337.ma",
+  "shell-version": [
+    "42"
+  ]
+}
