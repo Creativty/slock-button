@@ -1,9 +1,10 @@
 # INTRODUCTION
-slock-button is gnome-shell extension, made for the sole reason of temporarily restoring the lock buttthat used to be on your topbar.
+slock-button is gnome-shell extension, made for the sole reason of temporarily restoring the lock that used to be on your topbar.
 
 # INSTALLATION
 1. Clone the extension to your gnome-shell extensions list.
 ```bash
+$> mkdir -p $HOME/.local/share/gnome-shell/extensions
 $> cd $HOME/.local/share/gnome-shell/extensions
 $> git clone 'https://github.com/Creativty/slock-button.git' 'slock@aindjare.1337.student.ma'
 ```
